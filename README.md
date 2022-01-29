@@ -1,7 +1,6 @@
 # ROCKETSEAT DISCOVER
 ## TRILHA FUNDAMENTAR
 
----
 ### EMENTA
 Esta é a ementa da trilha Fundamentar. Sugerimos que você comece pelo curso de número um e siga a ordem proposta, para que você tenha uma jornada ideal.
 
@@ -19,8 +18,8 @@ Esta é a ementa da trilha Fundamentar. Sugerimos que você comece pelo curso de
 **10. Guia estelar de JavaScript**
   Descrição:
   Para entendermos mais sobre os tipos de dados, podemos compará-los com elementos da gramática, para aprendermos precisamos saber como escrever, os significados e continuar aprendendo para expandir nosso vocabulário. A dinâmica do aprendizado nesse módulo vai consistir em conceitos e escrita, deixando a aplicação para um outro momento, vamos aprender os tipos de dados mais utilizados.
-  -**Introdução:**
-    -[JavaScript](/10-Guia-estelar-javascript/introducao/javascript.md)
+  - **Introdução:**
+    - [JavaScript](/10-Guia-estelar-javascript/introducao/javascript.md)
 
 ---
 

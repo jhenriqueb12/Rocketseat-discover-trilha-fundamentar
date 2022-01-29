@@ -6,8 +6,8 @@ Esta é a ementa da trilha Fundamentar. Sugerimos que você comece pelo curso de
 
 ---
 
-**1. Guia estelar de HTML**
-**2. Guia estelar de CSS**
+**1.  Guia estelar de HTML**
+**2.  Guia estelar de CSS**
 **3. Nem tudo são Pixels**
 **4. Uma caixa dentro da outra**
 **5. Agora sim cores**

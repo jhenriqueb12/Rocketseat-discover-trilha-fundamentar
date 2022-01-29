@@ -25,11 +25,13 @@ Esta é a ementa da trilha Fundamentar. Sugerimos que você comece pelo curso de
 **9. Formulário de outro planeta**
 
 **10. Guia estelar de JavaScript**
+  
   Descrição:
   Para entendermos mais sobre os tipos de dados, podemos compará-los com elementos da gramática, para aprendermos precisamos saber como escrever, os significados e continuar aprendendo para expandir nosso vocabulário. A dinâmica do aprendizado nesse módulo vai consistir em conceitos e escrita, deixando a aplicação para um outro momento, vamos aprender os tipos de dados mais utilizados.
   - **Introdução:**
-    - [JavaScript](/10-Guia-estelar-javascript/introducao/javascript.md)
-
+    - [JavaScript](https://github.com/jhenriqueb12/Rocketseat-discover-trilha-fundamentar/blob/main/10-Guia-estelar-javascript/1-introducao/javascript.md)
+  - Primeiros Passos
+    - [Sintaxe](https://github.com/jhenriqueb12/Rocketseat-discover-trilha-fundamentar/blob/main/10-Guia-estelar-javascript/2-Primeiros-passos/Sintaxe.md)
 ---
 
 Curso: 25 capítulos + projetos = 30 horas

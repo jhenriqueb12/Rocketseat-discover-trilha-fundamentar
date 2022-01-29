@@ -6,34 +6,34 @@ Esta é a ementa da trilha Fundamentar. Sugerimos que você comece pelo curso de
 
 ---
 
-**1. Guia estelar de HTML**
+__1. Guia estelar de HTML:__
 
-**2. Guia estelar de CSS**
+__2. Guia estelar de CSS:__
 
-**3. Nem tudo são Pixels**
+__3. Nem tudo são Pixels:__
 
-**4. Uma caixa dentro da outra**
+__4. Uma caixa dentro da outra:__
 
-**5. Agora sim cores**
+__5. Agora sim cores:__
 
-**6. Posso ver e ouvir o HTML**
+__6. Posso ver e ouvir o HTML:__
 
-**7. Posicionando foguetes**
+__7. Posicionando foguetes:__
 
-**8. App bonito, até nos textos**
+__8. App bonito, até nos textos:__
 
-**9. Formulário de outro planeta**
+__9. Formulário de outro planeta:__
 
-**10. Guia estelar de JavaScript**
+__10. Guia estelar de JavaScript:__
   
   Descrição:
   Para entendermos mais sobre os tipos de dados, podemos compará-los com elementos da gramática, para aprendermos precisamos saber como escrever, os significados e continuar aprendendo para expandir nosso vocabulário. A dinâmica do aprendizado nesse módulo vai consistir em conceitos e escrita, deixando a aplicação para um outro momento, vamos aprender os tipos de dados mais utilizados.
-  - **Introdução:**
-    - [JavaScript](https://github.com/jhenriqueb12/Rocketseat-discover-trilha-fundamentar/blob/main/10-Guia-estelar-javascript/1-introducao/javascript.md)
-  - Primeiros Passos
-    - [Sintaxe](https://github.com/jhenriqueb12/Rocketseat-discover-trilha-fundamentar/blob/main/10-Guia-estelar-javascript/2-Primeiros-passos/Sintaxe.md)
+  * __Introdução__
+  * __Primeiros Passos__
+  * __Tipos de Dados__
+
 ---
 
-Curso: 25 capítulos + projetos = 30 horas
+__Curso__: 25 capítulos + projetos = 30 horas
 
-Status do curso: Estudando...
+__Status do curso:__ Estudando...

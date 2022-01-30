@@ -25,12 +25,10 @@ __8. App bonito, até nos textos:__
 __9. Formulário de outro planeta:__
 
 __10. Guia estelar de JavaScript:__
-  
-  Descrição:
-  Para entendermos mais sobre os tipos de dados, podemos compará-los com elementos da gramática, para aprendermos precisamos saber como escrever, os significados e continuar aprendendo para expandir nosso vocabulário. A dinâmica do aprendizado nesse módulo vai consistir em conceitos e escrita, deixando a aplicação para um outro momento, vamos aprender os tipos de dados mais utilizados.
   * __Introdução__
   * __Primeiros Passos__
   * __Tipos de Dados__
+  * __Variáveis__
 
 ---
 

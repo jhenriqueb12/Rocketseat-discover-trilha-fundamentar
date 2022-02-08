@@ -7,6 +7,11 @@ Esta é a ementa da trilha Fundamentar. Sugerimos que você comece pelo curso de
 ---
 
 __1. Guia estelar de HTML:__
+#### Descrição:
+O conteúdo esclarece plugin de previw HTML, tags, atributos, semâtica, listas, abrevições, representações de códigos, URLs, diretórios, tabelas, THead, TBody, Colgroup, cabeçalho, meta, favicon, meta SEO e meta social.
+
+  * __Conceitos__
+  * __Trabalhando com Elementos__
 
 __2. Guia estelar de CSS:__
 
@@ -25,10 +30,14 @@ __8. App bonito, até nos textos:__
 __9. Formulário de outro planeta:__
 
 __10. Guia estelar de JavaScript:__
+#### Descrição:
+As aulas desse conjunto abordam tipos de dados, variáveis, funções, manipulação de dados, expressões e aplicabilidade de recursos.
+
   * __Introdução__
   * __Primeiros Passos__
   * __Tipos de Dados__
   * __Variáveis__
+  * __Praticando e Avançando__
 
 ---
 

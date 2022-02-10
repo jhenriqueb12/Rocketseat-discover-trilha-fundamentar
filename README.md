@@ -42,9 +42,11 @@ As aulas desse conjunto abordam tipos de dados, variáveis, funções, manipula�
   * __Manipulando Dados__
   * __Expressões e Operadores__
   * __Condicionais de Controle de Fluxo__
+  * __Estrutura de Repetição__
+  * __Consolidando com Exercícios__
 
 ---
 
-__Curso__: 25 capítulos + projetos = 30 horas
+__Curso:__ 25 capítulos + projetos = 30 horas
 
 __Status do curso:__ Estudando...

@@ -38,6 +38,10 @@ As aulas desse conjunto abordam tipos de dados, variáveis, funções, manipula�
   * __Tipos de Dados__
   * __Variáveis__
   * __Praticando e Avançando__
+  * __Functions__
+  * __Manipulando Dados__
+  * __Expressões e Operadores__
+  * __Condicionais de Controle de Fluxo__
 
 ---
 

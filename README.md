@@ -12,6 +12,9 @@ O conteúdo esclarece plugin de previw HTML, tags, atributos, semâtica, listas,
 
   * __Conceitos__
   * __Trabalhando com Elementos__
+  * __Links__
+  * __Tabelas__
+  * __Cabeçalho__
 
 __2. Guia estelar de CSS:__
 
